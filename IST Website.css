@@ -1,0 +1,221 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-right: 16%;
+  margin-left: 16%;
+  margin-top: 100px;
+}
+
+div.startup {
+  margin-right: 16%;
+  margin-left: 16%;
+  /* position: -webkit-sticky; */
+  position: sticky;
+  top: 0;
+}
+
+ul.navibargroup {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #00a8cc;
+}
+
+li.navibar {
+  display: inline-block;
+}
+
+li.navibar a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #005082;
+}
+
+div.appeal1 {
+  background-image: url("Technology Appeal.jpg");
+  height: 725px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div.appeal2 {
+  background-image: url("Technology Appeal 5.jpg");
+  height: 725px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div.appeal3 {
+  background-image: url("Technology Appeal 4.jpg");
+  height: 725px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* div.appeal4 {
+  background-image: url("Technology Appeal 2.jpg");
+  height: 725px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+} */
+/* div.appeal5 {
+  background-image: url("Technology Appeal 6.jpg");
+  height: 725px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+} */
+h3 {
+  margin-left: 16%;
+  margin-right: 16%;
+}
+
+div.info {
+  margin-left: 16%;
+  margin-right: 16%;
+}
+
+p {}
+
+hr {
+  margin-left: 16%;
+  margin-right: 16%;
+}
+
+div.pagelink {
+  height: 200px;
+  width: 18%;
+  padding: 2%;
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  color: white;
+}
+
+div.assignment1 {
+  background-color: #00a8cc;
+  margin-left: 16%;
+}
+
+div.link1 {
+  background-color: white;
+  width: 260px;
+  margin: auto;
+}
+
+div.link1 a:link {
+  text-decoration: none;
+  color: #00a8cc;
+  background-color: none
+}
+
+div.link1 a:visited {
+  text-decoration: none;
+  color: #00a8cc;
+  background-color: none
+}
+
+div.link1 a:hover {
+  text-decoration: underline;
+  color: red;
+  background-color: none
+}
+
+div.link1 a:active {
+  text-decoration: underline;
+  color: red;
+  background-color: none
+}
+
+div.assignment2 {
+  background-color: #005082;
+}
+
+div.link2 {
+  background-color: white;
+  width: 260px;
+  margin: auto;
+}
+
+div.link2 a:link {
+  text-decoration: none;
+  color: #005082;
+  background-color: none
+}
+
+div.link2 a:visited {
+  text-decoration: none;
+  color: #005082;
+  background-color: none
+}
+
+div.link2 a:hover {
+  text-decoration: underline;
+  color: red;
+  background-color: none
+}
+
+div.link2 a:active {
+  text-decoration: underline;
+  color: red;
+  background-color: none
+}
+
+div.assignment3 {
+  background-color: #000839;
+  margin-right: 16%;
+}
+
+div.link3 {
+  background-color: white;
+  width: 260px;
+  margin: auto;
+}
+
+div.link3 a:link {
+  text-decoration: none;
+  color: #000839;
+  background-color: none
+}
+
+div.link3 a:visited {
+  text-decoration: none;
+  color: #000839;
+  background-color: none
+}
+
+div.link3 a:hover {
+  text-decoration: underline;
+  color: red;
+  background-color: none
+}
+
+div.link3 a:active {
+  text-decoration: underline;
+  color: red;
+  background-color: none
+}
+
+div.footer {
+  height: 50px;
+  margin-top: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 16%;
+  background-color: #00a8cc;
+  color: white;
+}
+
+table tr td {
+  border: 1px solid black;
+}
+
+td {
+  width: 50%;
+}
